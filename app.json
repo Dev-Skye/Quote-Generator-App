@@ -1,7 +1,9 @@
 {
   "expo": {
-    "name": "exampleapp",
+    "name": "Quote Generator",
     "slug": "exampleapp",
+    "privacy": "public",
+    "description": "An application that generates motivational quotes by different authors to keep you inspired and optimistic.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
